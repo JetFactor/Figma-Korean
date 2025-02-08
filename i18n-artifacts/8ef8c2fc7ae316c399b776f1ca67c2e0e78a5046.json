@@ -516,7 +516,7 @@
         "string": "직원 추천"
     },
     "community.community_shelf.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "community.community_shelf.ui_kits": {
         "string": "UI 키트"
@@ -732,7 +732,7 @@
         "string": "무료 게임 템플릿 모음으로 창의력을 발휘하세요. 게임의 대회를 주최할 때, 온라인에서 같은 시간을 공유할 때, 단순히 릴렉스 하는 수단을 원할 때, 모두가 즐길 수 있는 다양한 템플릿이 갖추어져 있습니다. 클래식 보드 게임부터 Jeopardy 및 Kaizen과 같은 대화형 퀴즈에 이르기까지 게임 템플릿 모음을 이용할 수 있습니다. 리소스는 작성자의 선택에 따라 유료 또는 무료로 제공됩니다."
     },
     "community.community_category_v2.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "community.community_category_v2.from_ui_components_to_icon_sets_kickstart_your_next_project_with_these_prebuilt_design_libraries": {
         "string": "UI 컴포넌트에서 아이콘 세트에 이르기까지 미리 구축된 디자인 라이브러리를 사용하여 다음 프로젝트에 탄력을 줍니다."
@@ -1569,7 +1569,7 @@
         "string": "구성요소"
     },
     "community.tag_v2.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "community.tag_v2.gradients": {
         "string": "그라데이션"
@@ -1971,7 +1971,7 @@
         "string": "사용자 정의 가능한 디자인 일러스트의 다양한 컬렉션으로 프로젝트를 레벨 업합니다."
     },
     "community.category_tag_v2.transform_your_creative_projects_with_an_extensive_collection_of_design_illustrations_these_versatile_graphics_are_perfect_for_enhancing_websites_presentations_marketing_materials_and_more_our_library_offers_a_wide_range_of_styles_and_themes_ensuring_youll_find_the_perfect_illustration_to_complement_your_design_vision_each_illustration_is_fully_customizable_allowing_you_to_adjust_colors_sizes_and_elements_to_match_your_brand_or_project_requirements_whether_youre_a_professional_designer_or_a_novice_creator_our_userfriendly_tools_make_it_easy_to_edit_and_incorporate_these_illustrations_into_your_work_the_collection_includes_both_free_and_premium_options_catering_to_various_budgets_and_project_needs_from_minimalist_line_drawings_to_detailed_vector_art_our_design_illustrations_provide_the_visual_flair_you_need_to_make_your_projects_stand_out_explore_our_collection_and_bring_your_creative_ideas_to_life": {
-        "string": "디자인 일러스트의 풍부한 컬렉션으로 창의적인 프로젝트에 변화를 줍니다. 다목적 그래픽은 웹사이트, 프레젠테이션, 마케팅 자료 등을 매력적으로 만드는 데 이상적입니다. 도서관에는 스타일과 테마가 폭넓게 준비되어있어 디자인의 모습을 완벽하게 만드는 데 딱 맞는 일러스트를 반드시 찾을 수 있습니다. 각 일러스트레이션은 모든 것을 사용자 정의할 수 있으므로 색상, 이미지, 콘텐츠를 브랜드 및 프로젝트 요청에 맞게 조정할 수 있습니다. 전문 디자이너이든 초보자 제작자이든 Figma의 사용자 친화적 인 도구를 사용하면 일러스트레이션을 편집하고 자신의 작품에 쉽게 통합 할 수 있습니다. 컬렉션에는 무료 옵션과 프리미엄 옵션이 있으며 다양한 예산과 프로젝트의 요구를 충족시킬 수 있습니다. 최소한의 선화부터 정밀한 벡터 아트까지 포함된 디자인 일러스트는 프로젝트를 탁월하게 만드는 데 필요한 시각적 감각을 제공합니다. 컬렉션을 살펴보고 창의적인 아이디어에 생명을 불어넣으십시오."
+        "string": "디자인 일러스트의 풍부한 컬렉션으로 창의적인 프로젝트에 변화를 줍니다. 다목적 그래픽은 웹사이트, 프레젠테이션, 마케팅 자료 등을 매력적으로 만드는 데 이상적입니다. 라이브러리에는 스타일과 테마가 폭넓게 준비되어있어 디자인의 모습을 완벽하게 만드는 데 딱 맞는 일러스트를 반드시 찾을 수 있습니다. 각 일러스트레이션은 모든 것을 사용자 정의할 수 있으므로 색상, 이미지, 콘텐츠를 브랜드 및 프로젝트 요청에 맞게 조정할 수 있습니다. 전문 디자이너이든 초보자 제작자이든 Figma의 사용자 친화적 인 도구를 사용하면 일러스트레이션을 편집하고 자신의 작품에 쉽게 통합 할 수 있습니다. 컬렉션에는 무료 옵션과 프리미엄 옵션이 있으며 다양한 예산과 프로젝트의 요구를 충족시킬 수 있습니다. 최소한의 선화부터 정밀한 벡터 아트까지 포함된 디자인 일러스트는 프로젝트를 탁월하게 만드는 데 필요한 시각적 감각을 제공합니다. 컬렉션을 살펴보고 창의적인 아이디어에 생명을 불어넣으십시오."
     },
     "community.category_tag_v2.restaurant_website_templates": {
         "string": "레스토랑 사이트용 템플릿"
@@ -2142,7 +2142,7 @@
         "string": "사용자 정의 가능한 인물 일러스트의 다양한 컬렉션으로 디자인에 생명을 불어넣습니다."
     },
     "community.category_tag_v2.enhance_your_visual_storytelling_with_a_comprehensive_collection_of_people_illustrations_from_individual_person_illustrations_to_diverse_group_representations_this_library_offers_a_wide_range_of_options_to_suit_various_design_needs_these_versatile_illustrations_of_people_are_perfect_for_websites_infographics_presentations_and_marketing_materials_each_illustration_is_fully_editable_allowing_you_to_customize_colors_poses_and_details_to_align_with_your_projects_style_and_message_this_collection_caters_to_different_art_styles_from_realistic_to_abstract_ensuring_you_find_the_perfect_fit_for_your_design_aesthetic_whether_youre_an_illustrator_looking_for_inspiration_or_a_designer_seeking_readytouse_assets_our_people_illustrations_provide_the_flexibility_and_diversity_you_need_with_both_free_and_premium_options_available_you_can_find_highquality_illustrations_to_suit_any_budget_explore_our_collection_and_bring_a_human_touch_to_your_designs_today": {
-        "string": "모두가 갖추어진 인물 일러스트 컬렉션으로 시각에 호소하는 스토리텔링을 강화하세요. 각 사람의 그림부터 다양한 그룹을 표현한 것까지, 이 라이브러리는 다양한 디자인 요구에 부응하는 다양한 옵션을 제공합니다. 이 다재다능한 인물 일러스트는 웹사이트, 인포그래픽, 프레젠테이션, 마케팅 자료에 이상적입니다. 각 일러스트레이션은 완전히 편집 가능하므로 색상, 포즈 및 미세한 부분을 사용자 정의하여 프로젝트의 스타일과 메시지에 맞출 수 있습니다. 사실적인 것부터 추상적인 것까지, 다양한 아트 스타일에 대응하는 이 컬렉션이라면, 찾고 있는 디자인 미학에 응하는 이상적인 일러스트가 반드시 있습니다. 영감이 필요한 일러스트레이터이든, 바로 사용할 수 있는 자산이 필요한 디자이너라도, 모든 요구에 부응하는 자재성과 다양성을 Figma의 인물 일러스트가 제공합니다. 일러스트는 무료와 유료 모두에서 선택할 수 있으므로 예산에 맞는 고품질의 것을 찾을 수 있습니다. 꼭 이 컬렉션을 체크해, 디자인에 인간미를 플러스 해 봅시다."
+        "string": "모두가 갖추어진 인물 일러스트 컬렉션으로 시각에 호소하는 스토리텔링을 강화하세요. 각 사람의 그림부터 다양한 그룹을 표현한 것까지, 이 라이브러리는 다양한 디자인 요구에 부응하는 다양한 옵션을 제공합니다. 이 다재다능한 인물 일러스트는 웹사이트, 인포그래픽, 프레젠테이션, 마케팅 자료에 이상적입니다. 각 일러스트레이션은 완전히 편집 가능하므로 색상, 포즈 및 미세한 부분을 사용자 정의하여 프로젝트의 스타일과 메시지에 맞출 수 있습니다. 사실적인 것부터 추상적인 것까지, 다양한 아트 스타일에 대응하는 이 컬렉션이라면, 찾고 있는 디자인 미학에 응하는 이상적인 일러스트가 반드시 있습니다. 영감이 필요한 일러스트레이터이든, 바로 사용할 수 있는 애샛이 필요한 디자이너라도, 모든 요구에 부응하는 자재성과 다양성을 Figma의 인물 일러스트가 제공합니다. 일러스트는 무료와 유료 모두에서 선택할 수 있으므로 예산에 맞는 고품질의 것을 찾을 수 있습니다. 꼭 이 컬렉션을 체크해, 디자인에 인간미를 플러스 해 봅시다."
     },
     "community.category_tag_v2.3_d_illustrations": {
         "string": "3D 일러스트"
@@ -2151,7 +2151,7 @@
         "string": "사용자 정의 가능한 3D 일러스트와 그래픽 컬렉션으로 프로젝트에 깊이와 시각적 재미를 추가합니다."
     },
     "community.category_tag_v2.transform_your_designs_with_a_diverse_collection_of_3_d_illustrations_these_eyecatching_graphics_add_depth_dimension_and_visual_interest_to_your_projects_helping_you_create_stunning_websites_apps_presentations_and_marketing_materials_that_stand_out_from_the_crowd_the_collection_features_a_wide_range_of_3_d_illustration_styles_from_realistic_renders_to_stylized_cartoonlike_graphics_whether_youre_looking_for_abstract_shapes_isometric_scenes_or_lifelike_objects_youll_find_3_d_illustrations_to_suit_your_needs_each_illustration_is_crafted_with_attention_to_detail_showcasing_the_latest_trends_in_3_d_design_and_rendering_techniques_these_3_d_illustrations_are_fully_customizable_allowing_you_to_adjust_colors_lighting_and_compositions_to_match_your_brand_identity_or_project_requirements_many_illustrations_come_with_separate_elements_that_can_be_rearranged_or_used_independently_offering_maximum_flexibility_in_your_designs_explore_our_collection_to_find_3_d_illustrations_for_various_industries_and_concepts_including_technology_nature_business_and_more_use_these_graphics_to_enhance_infographics_create_unique_headers_for_your_website_or_add_visual_flair_to_your_social_media_posts_the_collection_includes_both_free_3_d_illustrations_and_premium_options_catering_to_various_project_needs_and_budgets_3_d_illustration_resources_are_free_or_paid_per_creator_preference_ensuring_a_wide_range_of_choices_for_designers_at_all_levels_whether_youre_a_beginner_looking_to_experiment_with_3_d_graphics_or_a_professional_seeking_highquality_assets_our_collection_has_something_for_everyone": {
-        "string": "3D 일러스트의 풍부한 컬렉션으로 디자인에 변화를 줍니다. 눈길을 끄는 그래픽이 프로젝트에 깊이, 입체감, 시각적인 재미를 더해, 다른 것보다 빼어난, 매력적인 Web 사이트, 앱, 프레젠테이션, 마케팅 자료를 작성할 수 있습니다.\n컬렉션에는 리얼한 렌더링에서 양식화된 만화와 같은 그래픽에 이르기까지 3D 일러스트 스타일이 폭넓게 준비되어 있습니다. 이러한 객체 중 어느 것이든 필요에 맞는 3D 일러스트를 찾을 수 있습니다.\n이 3D 디자인은 모든 것을 커스터마이즈 할 수 있으므로, 컬러, 라이팅, 구도를 브랜드 아이덴티티와 프로젝트의 요구에 맞추어 조정하는 것이 가능합니다.\n컬렉션을 살펴보고 기술, 자연, 비즈니스 등 다양한 산업과 개념에 맞는 3D 일러스트를 찾아보세요.\n컬렉션에는 무료 옵션과 프리미엄 옵션이 포함되어 있으므로 다양한 프로젝트와 예산의 요구를 충족시킬 수 있습니다. 벨 디자이너를 위한 다양한 옵션이 확보되어 있습니다. 3D 그래픽 경험을 추구하는 초보자도 고품질 자산을 얻으려는 전문가도 Figma 컬렉션에서 필요한 것을 찾을 수 있습니다."
+        "string": "3D 일러스트의 풍부한 컬렉션으로 디자인에 변화를 줍니다. 눈길을 끄는 그래픽이 프로젝트에 깊이, 입체감, 시각적인 재미를 더해, 다른 것보다 빼어난, 매력적인 Web 사이트, 앱, 프레젠테이션, 마케팅 자료를 작성할 수 있습니다.\n컬렉션에는 리얼한 렌더링에서 양식화된 만화와 같은 그래픽에 이르기까지 3D 일러스트 스타일이 폭넓게 준비되어 있습니다. 이러한 객체 중 어느 것이든 필요에 맞는 3D 일러스트를 찾을 수 있습니다.\n이 3D 디자인은 모든 것을 커스터마이즈 할 수 있으므로, 컬러, 라이팅, 구도를 브랜드 아이덴티티와 프로젝트의 요구에 맞추어 조정하는 것이 가능합니다.\n컬렉션을 살펴보고 기술, 자연, 비즈니스 등 다양한 산업과 개념에 맞는 3D 일러스트를 찾아보세요.\n컬렉션에는 무료 옵션과 프리미엄 옵션이 포함되어 있으므로 다양한 프로젝트와 예산의 요구를 충족시킬 수 있습니다. 벨 디자이너를 위한 다양한 옵션이 확보되어 있습니다. 3D 그래픽 경험을 추구하는 초보자도 고품질 애샛을 얻으려는 전문가도 Figma 컬렉션에서 필요한 것을 찾을 수 있습니다."
     },
     "community.category_tag_v2.value_proposition_canvas_templates": {
         "string": "가치 제안 캔버스 템플릿"
@@ -2169,7 +2169,7 @@
         "string": "핸드오프 도구로 디자인과 개발 사이의 격차를 메우세요."
     },
     "community.category_tag_v2.make_design_specs_developerfriendly_with_handoff_plugins_from_the_figma_community_these_tools_help_extract_everything_developers_needfrom_exact_measurements_and_color_values_to_asset_exports_and_style_guides_teams_can_create_smoother_designtodevelopment_collaboration_without_constant_backandforth_about_specs_generate_detailed_documentation_automatically_and_keep_designers_and_developers_in_sync_browse_through_free_and_paid_plugins_to_streamline_your_handoff_workflow": {
-        "string": "Figma 커뮤니티의 핸드 오프 플러그인을 사용하여 개발자에게 사용하기 쉬운 디자인 사양을 만듭니다. 이러한 도구는 정확한 측정 및 색채 값에서 자산 내보내기 및 스타일 가이드에 이르기까지 개발자에게 필요한 모든 것을 추출하는 데 도움이 됩니다. 팀은 사양에 대해 여러 번 상호 작용할 필요없이 디자인에서 개발까지 협업을보다 원활하게 수행 할 수 있습니다. 자세한 문서를 자동으로 생성하여 디자이너와 개발자를 조정합니다. 무료 및 유료 플러그인을 탐색하여 인계 워크플로우를 간소화하세요."
+        "string": "Figma 커뮤니티의 핸드 오프 플러그인을 사용하여 개발자에게 사용하기 쉬운 디자인 사양을 만듭니다. 이러한 도구는 정확한 측정 및 색채 값에서 애샛 내보내기 및 스타일 가이드에 이르기까지 개발자에게 필요한 모든 것을 추출하는 데 도움이 됩니다. 팀은 사양에 대해 여러 번 상호 작용할 필요없이 디자인에서 개발까지 협업을보다 원활하게 수행 할 수 있습니다. 자세한 문서를 자동으로 생성하여 디자이너와 개발자를 조정합니다. 무료 및 유료 플러그인을 탐색하여 인계 워크플로우를 간소화하세요."
     },
     "community.category_tag_v2.math_lesson_plans": {
         "string": "수학 수업 계획"
@@ -2781,7 +2781,7 @@
         "string": "맞춤형 아이디어 창조 템플릿과 아이디어 보드 디자인으로 창의적인 프로세스를 활성화하세요."
     },
     "community.category_tag_v2.kickstart_your_creative_thinking_with_this_diverse_collection_of_ideation_templates_from_structured_brainstorming_frameworks_to_freeform_idea_boards_these_templates_provide_the_perfect_foundation_for_generating_and_organizing_innovative_concepts_the_library_includes_a_variety_of_designs_suitable_for_different_ideation_methods_and_team_sizes_each_template_is_fully_customizable_allowing_you_to_adapt_the_layout_and_structure_to_your_specific_needs_whether_youre_planning_a_product_launch_solving_a_complex_problem_or_exploring_new_business_opportunities_these_ideation_session_templates_will_help_streamline_your_creative_process_many_templates_are_available_for_free_with_premium_options_offering_additional_features_for_more_comprehensive_ideation_sessions_suitable_for_both_individual_and_collaborative_use_these_idea_templates_make_it_easy_to_capture_visualize_and_develop_your_thoughts_explore_the_collection_and_start_transforming_your_ideas_into_actionable_plans": {
-        "string": "이 아이디어 템플릿의 다양한 컬렉션에서 크리에이티브 싱킹을 시작하세요. 체계적인 브레인스토밍 프레임워크부터 자유형 아이디어 보드에 이르는 이 템플릿은 혁신적인 컨셉을 창출하고 정리할 수 있는 최적의 기반이 됩니다. 도서관에는 다양한 아이디어를 만드는 방법과 팀 규모에 적합한 다양한 디자인이 포함되어 있습니다. 각 템플릿은 완전히 사용자 정의 가능하며 자신의 요구에 맞게 레이아웃과 구조를 변경할 수 있습니다. 제품 출시를 계획하든 복잡한 문제를 해결하든 새로운 비즈니스 기회를 탐구하든 이 아이디어 세션 템플릿을 통해 광고 소재 프로세스를 간소화할 수 있습니다. 많은 템플릿은 무료이지만 더 포괄적 인 아이디어 세션을 위해 추가 기능을 갖춘 프리미엄 옵션도 제공됩니다. 개인적으로 사용하거나 공동으로 사용하기에 적합한 이러한 아이디어 템플릿을 통해 자신의 생각을 만들어 내고 시각화하고 발전시킬 수 있습니다. 컬렉션을 살펴보고 아이디어를 실행 가능한 계획으로 바꾸세요."
+        "string": "이 아이디어 템플릿의 다양한 컬렉션에서 크리에이티브 싱킹을 시작하세요. 체계적인 브레인스토밍 프레임워크부터 자유형 아이디어 보드에 이르는 이 템플릿은 혁신적인 컨셉을 창출하고 정리할 수 있는 최적의 기반이 됩니다. 라이브러리에는 다양한 아이디어를 만드는 방법과 팀 규모에 적합한 다양한 디자인이 포함되어 있습니다. 각 템플릿은 완전히 사용자 정의 가능하며 자신의 요구에 맞게 레이아웃과 구조를 변경할 수 있습니다. 제품 출시를 계획하든 복잡한 문제를 해결하든 새로운 비즈니스 기회를 탐구하든 이 아이디어 세션 템플릿을 통해 광고 소재 프로세스를 간소화할 수 있습니다. 많은 템플릿은 무료이지만 더 포괄적 인 아이디어 세션을 위해 추가 기능을 갖춘 프리미엄 옵션도 제공됩니다. 개인적으로 사용하거나 공동으로 사용하기에 적합한 이러한 아이디어 템플릿을 통해 자신의 생각을 만들어 내고 시각화하고 발전시킬 수 있습니다. 컬렉션을 살펴보고 아이디어를 실행 가능한 계획으로 바꾸세요."
     },
     "community.category_tag_v2.spider_diagram_template": {
         "string": "거미 다이어그램 템플릿"
@@ -2907,7 +2907,7 @@
         "string": "앱, 웹사이트, 자료에 맞게 맞춤설정할 수 있는 소셜 미디어 아이콘과 버튼으로 온라인에서의 존재감을 높입니다."
     },
     "community.category_tag_v2.elevate_your_online_presence_with_this_comprehensive_collection_of_social_media_icons_these_versatile_icon_sets_include_popular_platforms_and_are_perfect_for_websites_apps_and_marketing_materials_the_library_offers_a_wide_range_of_styles_from_minimalist_designs_to_elaborate_illustrations_ensuring_youll_find_the_perfect_match_for_your_brand_aesthetic_many_of_the_social_media_icons_are_available_as_free_editable_vector_graphics_allowing_for_easy_customization_and_scalability_for_those_seeking_more_unique_options_premium_icon_sets_with_advanced_features_are_also_available_whether_you_need_png_files_for_quick_implementation_or_vector_social_media_symbols_for_ultimate_flexibility_this_collection_has_you_covered_from_classic_social_media_buttons_to_modern_animated_icons_these_sets_provide_everything_needed_to_create_engaging_and_interactive_designs_explore_these_social_media_icon_sets_and_enhance_your_digital_projects_with_professionalquality_graphics": {
-        "string": "이 포괄적인 소셜 미디어 아이콘 모음으로 온라인에서의 존재감을 높일 수 있습니다. 인기 있는 플랫폼을 포함한 이 다목적 아이콘 세트는 웹사이트, 앱 및 마케팅 자료에 이상적입니다. 도서관은 최소한의 디자인에서부터 정교한 일러스트까지 다양한 스타일을 제공하므로 브랜드 미학에 딱 맞는 것을 찾을 수 있습니다. 소셜 미디어 아이콘의 대부분은 편집 가능한 무료 벡터 이미지로 제공되므로 사용자 지정 및 확장을 쉽게 수행할 수 있습니다. 더 독특한 옵션이 필요한 경우 고급 기능을 갖춘 프리미엄 아이콘 세트도 사용할 수 있습니다. 신속한 구현을 요구하는 PNG 파일이 필요하든, 궁극적인 유연성을 요구하고 벡터 소셜 미디어 심볼이 필요하든, 이 컬렉션에서 필요한 것을 찾을 수 있습니다. 클래식한 소셜 미디어 버튼부터 현대적인 애니메이션 아이콘에 이르기까지 이 세트는 매력적이고 대화식 디자인을 만드는 데 필요한 모든 것을 제공합니다. 이 소셜 미디어 아이콘 세트로 전문적인 품질의 그래픽으로 디지털 프로젝트를 강화하세요."
+        "string": "이 포괄적인 소셜 미디어 아이콘 모음으로 온라인에서의 존재감을 높일 수 있습니다. 인기 있는 플랫폼을 포함한 이 다목적 아이콘 세트는 웹사이트, 앱 및 마케팅 자료에 이상적입니다. 라이브러리은 최소한의 디자인에서부터 정교한 일러스트까지 다양한 스타일을 제공하므로 브랜드 미학에 딱 맞는 것을 찾을 수 있습니다. 소셜 미디어 아이콘의 대부분은 편집 가능한 무료 벡터 이미지로 제공되므로 사용자 지정 및 확장을 쉽게 수행할 수 있습니다. 더 독특한 옵션이 필요한 경우 고급 기능을 갖춘 프리미엄 아이콘 세트도 사용할 수 있습니다. 신속한 구현을 요구하는 PNG 파일이 필요하든, 궁극적인 유연성을 요구하고 벡터 소셜 미디어 심볼이 필요하든, 이 컬렉션에서 필요한 것을 찾을 수 있습니다. 클래식한 소셜 미디어 버튼부터 현대적인 애니메이션 아이콘에 이르기까지 이 세트는 매력적이고 대화식 디자인을 만드는 데 필요한 모든 것을 제공합니다. 이 소셜 미디어 아이콘 세트로 전문적인 품질의 그래픽으로 디지털 프로젝트를 강화하세요."
     },
     "community.category_tag_v2.social_media_icons_and_symbols": {
         "string": "소셜 미디어 아이콘 및 기호"
@@ -3249,7 +3249,7 @@
         "string": "맞춤형 웹사이트 템플릿과 레이아웃의 다양한 컬렉션을 사용하여 블로그를 시작하세요."
     },
     "community.category_tag_v2.kickstart_your_blogging_journey_with_this_extensive_collection_of_blog_website_templates_whether_youre_a_seasoned_writer_or_just_starting_out_these_templates_offer_the_perfect_foundation_for_your_online_presence_choose_from_a_variety_of_free_blog_templates_each_designed_with_user_experience_and_aesthetics_in_mind_the_library_includes_diverse_blog_layouts_and_designs_to_suit_different_niches_and_personal_styles_each_template_is_fully_customizable_allowing_you_to_adjust_colors_fonts_and_layouts_to_match_your_brand_for_those_seeking_more_advanced_features_premium_blog_design_templates_with_additional_functionality_are_also_available_from_minimalist_designs_to_more_elaborate_layouts_youll_find_the_perfect_template_to_showcase_your_content_these_templates_are_optimized_for_various_devices_ensuring_your_blog_looks_great_on_desktop_and_mobile_explore_this_collection_of_blog_templates_and_designs_and_start_creating_your_ideal_blogging_platform_today": {
-        "string": "블로그 웹사이트 템플릿의 다양한 컬렉션으로 블로그를 시작하세요. 베테랑의 블로거도, 앞으로 시작하려고 하는 분도, 이 템플릿은 온라인상에서의 존재감을 높이는데 이상적인 기반이 됩니다. 사용자 경험과 미관을 고려하여 설계된 다양한 무료 블로그 템플릿 중에서 선택할 수 있습니다. 도서관에는 다양한 틈새와 선호하는 스타일에 대응하는 다양한 블로그 레이아웃과 디자인이 포함되어 있습니다. 각 템플릿은 완전히 사용자 정의 가능하며 브랜드에 맞게 색상, 글꼴 및 레이아웃을 조정할 수 있습니다. 고급 기능이 필요한 경우 추가 기능이 포함된 프리미엄 블로그 디자인 템플릿을 사용할 수 있습니다. 최소한의 디자인부터 정교한 레이아웃에 이르기까지 자신의 콘텐츠를 소개하는 데 적합한 템플릿을 찾을 수 있습니다. 이 템플릿은 다양한 기기에 최적화되어 있으며 데스크톱과 모바일 모두에서 블로그를 아름답게 볼 수 있습니다. 블로그 템플릿과 디자인 컬렉션에서 오늘날부터 이상적인 블로그 플랫폼 만들기를 시작하세요."
+        "string": "블로그 웹사이트 템플릿의 다양한 컬렉션으로 블로그를 시작하세요. 베테랑의 블로거도, 앞으로 시작하려고 하는 분도, 이 템플릿은 온라인상에서의 존재감을 높이는데 이상적인 기반이 됩니다. 사용자 경험과 미관을 고려하여 설계된 다양한 무료 블로그 템플릿 중에서 선택할 수 있습니다. 라이브러리에는 다양한 틈새와 선호하는 스타일에 대응하는 다양한 블로그 레이아웃과 디자인이 포함되어 있습니다. 각 템플릿은 완전히 사용자 정의 가능하며 브랜드에 맞게 색상, 글꼴 및 레이아웃을 조정할 수 있습니다. 고급 기능이 필요한 경우 추가 기능이 포함된 프리미엄 블로그 디자인 템플릿을 사용할 수 있습니다. 최소한의 디자인부터 정교한 레이아웃에 이르기까지 자신의 콘텐츠를 소개하는 데 적합한 템플릿을 찾을 수 있습니다. 이 템플릿은 다양한 기기에 최적화되어 있으며 데스크톱과 모바일 모두에서 블로그를 아름답게 볼 수 있습니다. 블로그 템플릿과 디자인 컬렉션에서 오늘날부터 이상적인 블로그 플랫폼 만들기를 시작하세요."
     },
     "community.category_tag_v2.business_illustrations": {
         "string": "비즈니스 일러스트"
@@ -3411,7 +3411,7 @@
         "string": "Figma 디자인 파일용으로 설계된 전용 플러그인을 사용하여 보다 멋진 웹사이트를 구축하세요."
     },
     "community.category_tag_v2.improve_your_web_design_process_with_plugins_from_the_figma_community_these_tools_help_with_crucial_web_design_tasks_from_checking_color_contrast_and_accessibility_to_setting_up_responsive_grids_and_export_settings_find_plugins_to_test_how_designs_work_across_different_screen_sizes_extract_css_or_access_webready_components_and_icons_whether_focused_on_accessibility_standards_or_preparing_assets_for_developers_these_tools_help_streamline_your_web_design_workflow_browse_free_and_paid_options_to_find_plugins_matching_your_web_development_needs": {
-        "string": "Figma 커뮤니티 플러그인을 사용하여 웹 디자인 프로세스를 개선하세요. 이러한 도구는 색상 대비 및 접근성 확인에서 반응형 그리드 설정 및 내보내기 설정에 이르기까지 중요한 웹 디자인 작업에 유용합니다. 다양한 화면 크기에서 디자인이 어떻게 작동하는지 테스트하고, CSS를 추출하고, 웹 지원 구성 요소와 아이콘에 액세스하는 플러그인을 찾을 수 있습니다. 접근성 표준에 중점을 두거나 개발자를 위한 자산을 준비하는 데 중점을 두어도 이러한 도구는 웹 디자인 워크플로를 간소화하는 데 도움이 됩니다. 무료 및 유료 옵션을 검색하여 웹 개발 요구에 맞는 플러그인을 찾아보세요."
+        "string": "Figma 커뮤니티 플러그인을 사용하여 웹 디자인 프로세스를 개선하세요. 이러한 도구는 색상 대비 및 접근성 확인에서 반응형 그리드 설정 및 내보내기 설정에 이르기까지 중요한 웹 디자인 작업에 유용합니다. 다양한 화면 크기에서 디자인이 어떻게 작동하는지 테스트하고, CSS를 추출하고, 웹 지원 구성 요소와 아이콘에 액세스하는 플러그인을 찾을 수 있습니다. 접근성 표준에 중점을 두거나 개발자를 위한 애샛을 준비하는 데 중점을 두어도 이러한 도구는 웹 디자인 워크플로를 간소화하는 데 도움이 됩니다. 무료 및 유료 옵션을 검색하여 웹 개발 요구에 맞는 플러그인을 찾아보세요."
     },
     "community.category_tag_v2.technical_architecture_diagrams": {
         "string": "기술 아키텍처 다이어그램"
