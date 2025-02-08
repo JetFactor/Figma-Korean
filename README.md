@@ -33,5 +33,6 @@
 수정요청을 해주시면 감사하겠습니다.
 
 ![](https://dcbadge.limes.pink/api/shield/1285574573877624924)
+![](https://dcbadge.limes.pink/api/shield/834253879990157312)
 
 추후 데스크탑용 프로그램을 작성해보도록 하겠습니다.
