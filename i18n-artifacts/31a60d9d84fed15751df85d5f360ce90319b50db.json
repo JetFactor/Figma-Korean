@@ -978,7 +978,7 @@
         "string": "지난 7일간"
     },
     "activity_log.filter.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "activity_log.filter.merged_a_branch": {
         "string": "브랜치 병합"
@@ -1383,7 +1383,7 @@
         "string": "IP 주소"
     },
     "activity_log.table.load_more": {
-        "string": "추가로 로드"
+        "string": "더보기"
     },
     "activity_log.table.member_email_addresses": {
         "string": "회원의 이메일 주소"
@@ -3078,7 +3078,7 @@
         "string": "문제가 발생했습니다."
     },
     "assets_in_actions.assets_section.initial_state.title": {
-        "string": "자산을 이름이나 간략한 설명으로 검색"
+        "string": "애샛을 이름이나 간략한 설명으로 검색"
     },
     "assets_in_actions.assets_section.no_results.title": {
         "string": "'{query}'과 일치하는 결과가 없습니다."
@@ -5079,7 +5079,7 @@
         "string": "모두"
     },
     "categories.all_assets": {
-        "string": "모든 자산"
+        "string": "모든 애샛"
     },
     "categories.all_design_libraries": {
         "string": "모든 디자인 라이브러리"
@@ -5106,7 +5106,7 @@
         "string": "모든 화이트보딩"
     },
     "categories.assets": {
-        "string": "자산"
+        "string": "애샛"
     },
     "categories.brainstorming": {
         "string": "브레인스토밍"
@@ -5181,7 +5181,7 @@
         "string": "가져오기 및 내보내기"
     },
     "categories.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "categories.mobile_apps": {
         "string": "모바일 앱"
@@ -5439,7 +5439,7 @@
         "string": "파일 전체에서 활성화됩니다."
     },
     "churn_friction.modal.feature_examples": {
-        "string": "도서관, 고급 프로토 타이핑, 기타."
+        "string": "라이브러리, 고급 프로토 타이핑, 기타."
     },
     "churn_friction.modal.learn_more": {
         "string": "자세한 정보"
@@ -6180,7 +6180,7 @@
         "string": "코드 블록 언어"
     },
     "collaboration.branching_node_treatments.property.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "collaboration.branching_node_treatments.property.corner_radius": {
         "string": "모서리 반경"
@@ -6639,7 +6639,7 @@
         "string": "수직"
     },
     "collaboration.branching_node_treatments.value.blend_mode.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "collaboration.branching_node_treatments.value.blend_mode.color_burn": {
         "string": "구운"
@@ -7800,7 +7800,7 @@
         "string": "스포트라이트 요청 취소"
     },
     "collaboration.spotlight.tooltip.spotlight_me": {
-        "string": "자신에게 스포트라이트를 맞추다"
+        "string": "자신 강조"
     },
     "collaboration.spotlight.tooltip.stop_presenting": {
         "string": "클릭하여 스포트라이트 중지"
@@ -7866,7 +7866,7 @@
         "string": "연결 중…"
     },
     "collaboration.voice.couldn_t_leave_please_try_again": {
-        "string": "퇴출하지 못했습니다. 다시 시도해 주세요."
+        "string": "떠나지 못했습니다. 다시 시도해 주세요."
     },
     "collaboration.voice.creator": {
         "string": "(작가)"
@@ -7920,7 +7920,7 @@
         "string": "세부정보 보기"
     },
     "collaboration.voice.leave": {
-        "string": "퇴출"
+        "string": "떠나기"
     },
     "collaboration.voice.left": {
         "string": "탈퇴됨"
@@ -9210,7 +9210,7 @@
         "string": "Apple 디자인 리소스 사용권 계약"
     },
     "community.eula.license_agreement_preamble": {
-        "string": "Apple에서 제공하는 자산을 사용하여 디자인하기 전에 이 사용권 계약을 검토해야 합니다."
+        "string": "Apple에서 제공하는 애샛을 사용하여 디자인하기 전에 이 사용권 계약을 검토해야 합니다."
     },
     "community.eula.license_agreement_v2": {
         "string": "Apple 디자인 리소스를 사용하려면 계약 조항을 읽고 동의하세요."
@@ -9264,7 +9264,7 @@
         "string": "모바일 앱"
     },
     "community.footer.most_used": {
-        "string": "가장 사용"
+        "string": "가장 많이 사용되는"
     },
     "community.footer.popular_searches": {
         "string": "인기 검색"
@@ -9306,13 +9306,13 @@
         "string": "커뮤니티 리소스를 사용하여 디자인을 개선하는 몇 가지 방법을 살펴보겠습니다."
     },
     "community.homepage.figjam_section.browse_all": {
-        "string": "모든 FigJam 자산 보기"
+        "string": "모든 FigJam 애샛 보기"
     },
     "community.homepage.figjam_section.header": {
-        "string": "FigJam 자산"
+        "string": "FigJam 애샛"
     },
     "community.homepage.figjam_section.sub_header": {
-        "string": "FigJam 보드는 계획, 브레인스토밍, 팀 회의 개최에 도움이 됩니다."
+        "string": "FigJam 보드는 계획을 세우고, 브레인스토밍하며, 팀 회의를 진행하는 데 유용합니다."
     },
     "community.homepage.figma_section.browse_all": {
         "string": "모든 디자인 리소스 보기"
@@ -9330,7 +9330,7 @@
         "string": "아이콘 세트"
     },
     "community.homepage.header_libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "community.homepage.header_plugins": {
         "string": "플러그인"
@@ -9450,7 +9450,7 @@
         "string": "자원 유형"
     },
     "community.landing_page.load_more": {
-        "string": "추가로 로드"
+        "string": "더보기"
     },
     "community.landing_page.query_header": {
         "string": "{query} 결과"
@@ -9933,7 +9933,7 @@
         "string": "내 플러그인을 만들고 관리하려면 {link}가 필요합니다."
     },
     "community.preset_modal.description": {
-        "string": "모든 디자인 파일의 자산 패널을 찾을 수 있습니다."
+        "string": "모든 디자인 파일의 애샛 패널을 찾을 수 있습니다."
     },
     "community.preset_modal.header": {
         "string": "이 UI 키트는 Figma 내에서 이미 사용할 수 있습니다."
@@ -10704,7 +10704,7 @@
         "string": "새로운 파일"
     },
     "community.using.open_in": {
-        "string": "위치를 지정하여 열기..."
+        "string": "다음에서 열기.."
     },
     "community.using.open_in_no_ellipses": {
         "string": "다음 열기"
@@ -13542,7 +13542,7 @@
         "string": "페이지"
     },
     "cooper.properties_panel.border.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "cooper.properties_panel.border.style_dashed_big": {
         "string": "큰 점선"
@@ -13905,10 +13905,10 @@
         "string": "라이브러리 추가"
     },
     "design_systems.assets_panel.assets": {
-        "string": "자산"
+        "string": "애샛"
     },
     "design_systems.assets_panel.assets_from_community": {
-        "string": "커뮤니티 자산"
+        "string": "커뮤니티 애샛"
     },
     "design_systems.assets_panel.available_from_connected_project": {
         "string": "{hostPlanName}에서 사용 가능"
@@ -13938,16 +13938,16 @@
         "string": "상세"
     },
     "design_systems.assets_panel.drag_drop_component": {
-        "string": "자산 패널에서 구성요소를 끌어서 놓으면 이 파일에서 다시 사용할 수 있습니다."
+        "string": "애샛 패널에서 구성요소를 끌어서 놓으면 이 파일에서 다시 사용할 수 있습니다."
     },
     "design_systems.assets_panel.drag_drop_component_draft": {
-        "string": "자산 패널에서 구성요소를 끌어서 놓으면 이 초안에서 재사용할 수 있습니다."
+        "string": "애샛 패널에서 구성요소를 끌어서 놓으면 이 초안에서 재사용할 수 있습니다."
     },
     "design_systems.assets_panel.dropdown_curated_libraries": {
         "string": "엄선 라이브러리"
     },
     "design_systems.assets_panel.dropdown_libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "design_systems.assets_panel.dropdown_org_libraries": {
         "string": "{orgName}의 라이브러리"
@@ -13977,7 +13977,7 @@
         "string": "사용 예"
     },
     "design_systems.assets_panel.explore_libraries": {
-        "string": "도서관 참조…"
+        "string": "라이브러리 참조…"
     },
     "design_systems.assets_panel.frames": {
         "string": "프레임"
@@ -14046,7 +14046,7 @@
         "string": "{libraryName}에 '{searchQuery}'와 일치하는 결과가 없습니다."
     },
     "design_systems.assets_panel.num_assets": {
-        "string": "{numAssets, plural, other {{numAssets}개의 자산}}"
+        "string": "{numAssets, plural, other {{numAssets}개의 애샛}}"
     },
     "design_systems.assets_panel.num_components": {
         "string": "{numComponents, plural, other {{numComponents}개의 구성 요소}}"
@@ -14070,7 +14070,7 @@
         "string": "반응형"
     },
     "design_systems.assets_panel.search": {
-        "string": "자산 검색..."
+        "string": "애샛 검색..."
     },
     "design_systems.assets_panel.search_all_icon_sets": {
         "string": "모든 아이콘 세트 검색"
@@ -14559,7 +14559,7 @@
         "string": "메인 컴포넌트로 이동"
     },
     "design_systems.instance_panel.go_to_main_component_nin_library": {
-        "string": "도서관에서\n메인 컴포넌트로 이동"
+        "string": "라이브러리에서\n메인 컴포넌트로 이동"
     },
     "design_systems.instance_panel.instance_options": {
         "string": "인스턴스 옵션"
@@ -14985,7 +14985,7 @@
         "string": "자세한 정보"
     },
     "design_systems.libraries_modal.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "design_systems.libraries_modal.libraries_added_to_this_file": {
         "string": "이 파일에 추가된 라이브러리"
@@ -15057,7 +15057,7 @@
         "string": "팀이나 작업공간에 새 라이브러리가 게시되면 여기에 표시됩니다."
     },
     "design_systems.libraries_modal.no_publishable_assets": {
-        "string": "게시할 수 있는 자산 없음"
+        "string": "게시할 수 있는 애샛 없음"
     },
     "design_systems.libraries_modal.no_recommended_libraries": {
         "string": "추천 라이브러리 없음"
@@ -15258,7 +15258,7 @@
         "string": "공유 글꼴"
     },
     "design_systems.libraries_modal.sharing_assets_with_your_team": {
-        "string": "팀과 자산을 공유할 수 있는 유료 플랜만 있습니다. {learnMoreLink}."
+        "string": "팀과 애샛을 공유할 수 있는 유료 플랜만 있습니다. {learnMoreLink}."
     },
     "design_systems.libraries_modal.show_enabled_libraries_filter": {
         "string": "유효한 라이브러리만 표시"
@@ -15288,13 +15288,13 @@
         "string": "스타일"
     },
     "design_systems.libraries_modal.swap_asset": {
-        "string": "자산 교체"
+        "string": "애샛 교체"
     },
     "design_systems.libraries_modal.swap_default_styles_in_instances": {
         "string": "인스턴스의 기본 스타일을 바꿉니다."
     },
     "design_systems.libraries_modal.swap_library": {
-        "string": "도서관 교체"
+        "string": "라이브러리 교체"
     },
     "design_systems.libraries_modal.team": {
         "string": "팀"
@@ -15324,7 +15324,7 @@
         "string": "게시된 라이브러리가 있는 팀에 속하지 않습니다. 팀 라이브러리를 게시하고 공유하려면 업그레이드하세요."
     },
     "design_systems.libraries_modal.teams_with_libraries": {
-        "string": "도서관이 있는 팀"
+        "string": "라이브러리이 있는 팀"
     },
     "design_systems.libraries_modal.there_are_no_published_components_or_styles_in_your_team": {
         "string": "팀에 게시된 구성요소나 스타일이 없습니다."
@@ -15348,7 +15348,7 @@
         "string": "총 인스턴스 수"
     },
     "design_systems.libraries_modal.total_libraries": {
-        "string": "도서관 총 수"
+        "string": "라이브러리 총 수"
     },
     "design_systems.libraries_modal.total_styles": {
         "string": "스타일 총수"
@@ -15705,7 +15705,7 @@
         "string": "{assetName}을 게시 대상에 포함"
     },
     "design_systems.publishing_modal.invalid_components_with_count": {
-        "string": "잘못된 자산 {countString}"
+        "string": "잘못된 애샛 {countString}"
     },
     "design_systems.publishing_modal.list_item_changed_variable_count": {
         "string": "{count, plural, other {{count}개의 수정된 가변}}"
@@ -16116,7 +16116,7 @@
         "string": "효과"
     },
     "design_systems.styles.dropdown.fill": {
-        "string": "칼라"
+        "string": "색상"
     },
     "design_systems.styles.dropdown.grid": {
         "string": "그리드"
@@ -16269,7 +16269,7 @@
         "string": "업데이트할 수 없습니다."
     },
     "design_systems.update_actions.update_success": {
-        "string": "자산 업데이트가 완료되었습니다."
+        "string": "애샛 업데이트가 완료되었습니다."
     },
     "design_systems.update_actions.updating_assets": {
         "string": "애셋 업데이트 중"
@@ -16776,7 +16776,7 @@
         "string": "주석"
     },
     "dev_handoff.assets": {
-        "string": "자산"
+        "string": "애샛"
     },
     "dev_handoff.assets.gif": {
         "string": "GIF"
@@ -16791,7 +16791,7 @@
         "string": "구성 요소 인스턴스"
     },
     "dev_handoff.assets.show_more": {
-        "string": "{count, plural, other {또한 {count}개의 자산 표시}}"
+        "string": "{count, plural, other {또한 {count}개의 애샛 표시}}"
     },
     "dev_handoff.assets.video": {
         "string": "동영상"
@@ -17514,7 +17514,7 @@
         "string": "국경"
     },
     "dev_handoff.overrides.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "dev_handoff.overrides.effect": {
         "string": "효과"
@@ -18732,7 +18732,7 @@
         "string": "가이드 읽기"
     },
     "dev_mode.onboarding_callout.switch_into_dev_mode": {
-        "string": "개발 모드로 전환하면 속성 보기, 자산 가져오기, 코드 복사 등의 작업을 몇 번의 클릭으로 수행할 수 있습니다."
+        "string": "개발 모드로 전환하면 속성 보기, 애샛 가져오기, 코드 복사 등의 작업을 몇 번의 클릭으로 수행할 수 있습니다."
     },
     "fullscreeen.type_panel.resizing": {
         "string": "사이즈 변경"
@@ -19530,7 +19530,7 @@
         "string": "이 파일을 즐겨찾기에 추가"
     },
     "fullscreen.filename_view.file_analytics": {
-        "string": "도서관 분석"
+        "string": "라이브러리 분석"
     },
     "fullscreen.filename_view.file_input_title": {
         "string": "파일 이름"
@@ -19776,7 +19776,7 @@
         "string": "중앙 정렬"
     },
     "fullscreen.grids_panel.grid_settings.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "fullscreen.grids_panel.grid_settings.count": {
         "string": "수"
@@ -19833,7 +19833,7 @@
         "string": "혼합 표시 설정을 바꾸려면 {svg}를 클릭합니다."
     },
     "fullscreen.libraries_button.tooltip.no_updates": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "fullscreen.libraries_button.tooltip.updates_to_pull": {
         "string": "라이브러리 업데이트 확인"
@@ -19929,7 +19929,7 @@
         "string": "무료 {maxFreePages} 페이지는 모두 사용되었습니다."
     },
     "fullscreen.pages_panel.assets_tab": {
-        "string": "자산"
+        "string": "애샛"
     },
     "fullscreen.pages_panel.code_tab": {
         "string": "코드"
@@ -20130,7 +20130,7 @@
         "string": "기본"
     },
     "fullscreen.properties_panel.blend_mode.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "fullscreen.properties_panel.blend_mode.color_burn": {
         "string": "베이킹 (컬러)"
@@ -20256,7 +20256,7 @@
         "string": "대비 설정"
     },
     "fullscreen.properties_panel.color_picker.blend_mode_select.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "fullscreen.properties_panel.color_picker.blend_mode_select.color_burn": {
         "string": "베이킹 (컬러)"
@@ -20322,7 +20322,7 @@
         "string": "스포이드"
     },
     "fullscreen.properties_panel.color_picker.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "fullscreen.properties_panel.color_picker.sample_color": {
         "string": "샘플 컬러"
@@ -21879,7 +21879,7 @@
         "string": "흐림 범위의 반경"
     },
     "properties_panel.effects.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "properties_panel.effects.effect_settings": {
         "string": "효과 설정"
@@ -22353,7 +22353,7 @@
         "string": "고등학교까지"
     },
     "edu.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "edu.log_out": {
         "string": "로그아웃"
@@ -28041,7 +28041,7 @@
         "string": "커뮤니티 프로필"
     },
     "file_browser.team_settings_modal.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "file_browser.team_settings_modal.members_tab": {
         "string": "회원"
@@ -28221,7 +28221,7 @@
         "string": "이 프로젝트에는 활성 리소스 연결이 있습니다. 이 프로젝트를 휴지통으로 이동하면 프로젝트가 분리됩니다."
     },
     "file_browser.trash_project.warning.pending_asset_transfer": {
-        "string": "이 프로젝트에는 보류 중인 자산 이동 요청이 있습니다. 이 프로젝트를 휴지통으로 이동하면 이동이 취소됩니다."
+        "string": "이 프로젝트에는 보류 중인 애샛 이동 요청이 있습니다. 이 프로젝트를 휴지통으로 이동하면 이동이 취소됩니다."
     },
     "file_browser.trash_project.warning.pending_resource_connection": {
         "string": "이 프로젝트에는 보류 중인 리소스 연결이 있습니다. 이 프로젝트를 휴지통으로 이동하면 연결 요청이 취소됩니다."
@@ -29373,7 +29373,7 @@
         "string": "키트 로드 중..."
     },
     "first_draft.library_placeholder": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "first_draft.link_component.component_selection_instruction": {
         "string": "구성요소 선택"
@@ -29406,7 +29406,7 @@
         "string": "글꼴 변경"
     },
     "first_draft.make_changes.prompt_labels.colors": {
-        "string": "칼라"
+        "string": "색상"
     },
     "first_draft.make_changes.prompt_labels.imagery": {
         "string": "이미지"
@@ -29820,7 +29820,7 @@
         "string": "속성 제안"
     },
     "first_draft.theme_panel.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "first_draft.theme_panel.font": {
         "string": "글꼴"
@@ -30963,7 +30963,7 @@
         "string": "링크를 데스크톱 앱에서 열기"
     },
     "fullscreen_actions.open-preferences-modal": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "fullscreen_actions.open-release-notes": {
         "string": "릴리스 노트"
@@ -31362,7 +31362,7 @@
         "string": "선택한 인스턴스의 재정의 복구"
     },
     "fullscreen_actions.repair-duplicate-subscribed-assets": {
-        "string": "중복 구매된 자산 복구"
+        "string": "중복 구매된 애샛 복구"
     },
     "fullscreen_actions.repair-missing-override-keys": {
         "string": "인스턴스 재정의 수정"
@@ -31908,7 +31908,7 @@
         "string": "어노테이션 표시"
     },
     "fullscreen_actions.show_assets": {
-        "string": "자산 표시"
+        "string": "애샛 표시"
     },
     "fullscreen_actions.show_comments": {
         "string": "댓글 표시"
@@ -31980,7 +31980,7 @@
         "string": "맞춤법 검사"
     },
     "fullscreen_actions.spotlight_me": {
-        "string": "자신에게 스포트라이트를 맞추다"
+        "string": "자신 강조"
     },
     "fullscreen_actions.stack-selection": {
         "string": "자동 레이아웃 추가"
@@ -32391,7 +32391,7 @@
         "string": "프로토타입 만들기"
     },
     "fullscreen_actions.toggle-publish": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "fullscreen_actions.toggle-recording-interactions": {
         "string": "Toggle interaction recorder"
@@ -33429,7 +33429,7 @@
         "string": "기타 도움말 리소스"
     },
     "in_product_help_and_learning.popular_resources.create_components.description": {
-        "string": "재사용 가능한 자산을 만들어 디자인 속도를 높입니다."
+        "string": "재사용 가능한 애샛을 만들어 디자인 속도를 높입니다."
     },
     "in_product_help_and_learning.popular_resources.create_components.details.description": {
         "string": "재사용 가능한 에셋을 사용하여 워크플로우를 레벨업하고 처음부터 다시 시작할 필요가 없습니다."
@@ -33522,7 +33522,7 @@
         "string": "{gradientType} 그라데이션"
     },
     "inspect_panel.colors.title": {
-        "string": "칼라"
+        "string": "색상"
     },
     "inspect_panel.component_props.title": {
         "string": "구성 요소 속성"
@@ -37887,7 +37887,7 @@
         "string": "글꼴"
     },
     "resources_tab.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "resources_tab.libraries.changing_permissions_warning_v2": {
         "string": "라이브러리를 기본적으로 사용 설정하면 {orgName}의 모든 사용자를 찾아서 볼 수 있습니다."
@@ -37935,7 +37935,7 @@
         "string": "라이브러리 이름"
     },
     "resources_tab.libraries.library_owner": {
-        "string": "도서관 소유자"
+        "string": "라이브러리 소유자"
     },
     "resources_tab.libraries.manage_library_for": {
         "string": "{orgOrWorkspaceName}의 라이브러리 관리"
@@ -39042,7 +39042,7 @@
         "string": "각 작업공간에 가장 적합한 라이브러리를 구성원에게 알립니다."
     },
     "workspace_table.empty_state.approve_libraries_and_assets": {
-        "string": "라이브러리 및 자산 사용 가능"
+        "string": "라이브러리 및 애샛 사용 가능"
     },
     "workspace_table.empty_state.let_workspaces_be_unique": {
         "string": "작업 공간에 고유성을 제공"
@@ -40611,7 +40611,7 @@
         "string": "{orgName} 조직을 성공적으로 탈퇴했습니다."
     },
     "org_view.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "org_view.license_group.member_count": {
         "string": "{memberCount, plural, other {{memberCount}명의 회원}}"
@@ -45666,7 +45666,7 @@
         "string": "모두"
     },
     "qa.assets": {
-        "string": "자산"
+        "string": "애샛"
     },
     "qa.category.collaboration_tools": {
         "string": "협업 도구"
@@ -46575,7 +46575,7 @@
         "string": "캔버스로 드래그하면 디자인에 사용 (및 재사용) 할 수 있습니다."
     },
     "rcs.visual_assets.drag_visual_assets_title": {
-        "string": "좋아하는 자산을 찾았습니까?"
+        "string": "좋아하는 애샛을 찾았습니까?"
     },
     "rcs.visual_assets.elevate_your_designs": {
         "string": "아이콘 세트로 쉽게 디자인"
@@ -47889,7 +47889,7 @@
         "string": "탈퇴"
     },
     "settings.account_settings.library_section_header": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
         "string": "현재 이 운영 체제에서는 로컬 글꼴을 지원하지 않습니다."
@@ -49491,7 +49491,7 @@
         "string": "프로토타입 로드 중..."
     },
     "slides.inserts_menu.assets": {
-        "string": "자산"
+        "string": "애샛"
     },
     "slides.inserts_menu.design": {
         "string": "디자인 모드"
@@ -49548,7 +49548,7 @@
         "string": "상황에 맞는 슬라이드 찾기"
     },
     "slides.onboarding.nondesigner.tools.description": {
-        "string": "간단한 슬라이드 도구 외에도 투표 실행, 프로토타입 포함, 매력을 더하기 위한 자산을 추가할 수 있습니다."
+        "string": "간단한 슬라이드 도구 외에도 투표 실행, 프로토타입 포함, 매력을 더하기 위한 애샛을 추가할 수 있습니다."
     },
     "slides.onboarding.nondesigner.tools.title": {
         "string": "작업에 맞는 도구 선택"
@@ -49713,7 +49713,7 @@
         "string": "레이어 블러"
     },
     "slides.properties_panel.border_panel.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "slides.properties_panel.border_panel.style_dashed_big": {
         "string": "큰 점선"
@@ -49737,7 +49737,7 @@
         "string": "테두리 두께"
     },
     "slides.properties_panel.code_block_panel.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "slides.properties_panel.code_block_panel.language": {
         "string": "언어"
@@ -49749,7 +49749,7 @@
         "string": "테마 색상 추가"
     },
     "slides.properties_panel.color_picker.color_toggle": {
-        "string": "칼라"
+        "string": "색상"
     },
     "slides.properties_panel.color_picker.delete_template_color": {
         "string": "삭제"
@@ -49845,7 +49845,7 @@
         "string": "위젯 재설정"
     },
     "slides.properties_panel.interactive_widget.theme_selector_label": {
-        "string": "칼라"
+        "string": "색상"
     },
     "slides.properties_panel.interactive_widget.transparent_theme_label": {
         "string": "투명"
@@ -50226,7 +50226,7 @@
         "string": "사용중인 스타일은 삭제할 수 없습니다."
     },
     "slides.properties_panel.theme.colors": {
-        "string": "칼라"
+        "string": "색상"
     },
     "slides.properties_panel.theme.dropdown_deleted_theme_name": {
         "string": "스타일 선택"
@@ -52671,7 +52671,7 @@
         "string": "라이브러리 애널리틱스 데이터를 로드합니다."
     },
     "tokens.settings.dev_token_modal.scope.library_analytics_name": {
-        "string": "도서관 분석"
+        "string": "라이브러리 분석"
     },
     "tokens.settings.dev_token_modal.scope.no_access": {
         "string": "액세스 없음"
@@ -52734,13 +52734,13 @@
         "string": "필요한 경우 언제든지 {strongAssets} 탭을 열어 구성요소를 빠르게 찾을 수 있습니다."
     },
     "tooltips_plus_onboarding.assets_ending_step.title": {
-        "string": "자산 사용"
+        "string": "애샛 사용"
     },
     "tooltips_plus_onboarding.assets_step.description": {
         "string": "우선은 팀 라이브러리의 컴퍼넌트나 Figma가 제공하는 UI 킷을 이용해, 그 후에 독자적인 디자인으로 해 갑니다."
     },
     "tooltips_plus_onboarding.assets_step.title": {
-        "string": "미리 제작된 자산을 사용하여 신속하게 디자인"
+        "string": "미리 제작된 애샛을 사용하여 신속하게 디자인"
     },
     "tooltips_plus_onboarding.back": {
         "string": "뒤로"
@@ -52911,7 +52911,7 @@
         "string": "장식"
     },
     "type_settings.decoration.custom_color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "type_settings.decoration.decoration_style": {
         "string": "스타일"
@@ -53445,7 +53445,7 @@
         "string": "변경이 필요합니까?"
     },
     "ui3_and_ai_callouts.community_fragment_search.description": {
-        "string": "설명을 입력하기만 하면 전체 팀이나 커뮤니티에서 자산과 디자인을 찾을 수 있습니다."
+        "string": "설명을 입력하기만 하면 전체 팀이나 커뮤니티에서 애샛과 디자인을 찾을 수 있습니다."
     },
     "ui3_and_ai_callouts.exit_ui3.back_to_old_design_option": {
         "string": "이전 UI로 돌아갑니다."
@@ -53466,7 +53466,7 @@
         "string": "사용해보기"
     },
     "ui3_and_ai_callouts.fragment_search.description": {
-        "string": "전체 팀에서 자산과 디자인을 검색합니다. 말로 설명하기만 하면 됩니다."
+        "string": "전체 팀에서 애샛과 디자인을 검색합니다. 말로 설명하기만 하면 됩니다."
     },
     "ui3_and_ai_callouts.fragment_search.title": {
         "string": "(대부분) 모두 검색 가능"
@@ -53952,7 +53952,7 @@
         "string": "팀에서 사용하기 위해 공유 UI 구성 요소로 디자인 시스템을 만듭니다."
     },
     "plan_comparison.chart.libraries.name": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "plan_comparison.chart.libraries.org_wide": {
         "string": "조직 전체"
@@ -54990,7 +54990,7 @@
         "string": "CMS"
     },
     "variables.binding_ui.variable_library_tab_name": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "variables.branching.code_syntax": {
         "string": "코드 구문"
@@ -55269,7 +55269,7 @@
         "string": "부리안"
     },
     "variables.type.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "variables.type.font_style": {
         "string": "글꼴 스타일"
@@ -55320,7 +55320,7 @@
         "string": "{modeName}을 사용하기 전에 업데이트가 필요한 레이어가 있습니다."
     },
     "variables.visual_bell.variables_incompatible_modes_no_updates": {
-        "string": "{modeName} 모드를 보려면 라이브러리 자산을 다시 게시해야 할 수 있습니다."
+        "string": "{modeName} 모드를 보려면 라이브러리 애샛을 다시 게시해야 할 수 있습니다."
     },
     "view_permissions.account_status": {
         "string": "{account}로 로그인했습니다."
@@ -56391,7 +56391,7 @@
         "string": "최대 9개까지 선택합니다."
     },
     "whiteboard.color_palettes.modal.colors": {
-        "string": "칼라"
+        "string": "색상"
     },
     "whiteboard.color_palettes.modal.create_palette": {
         "string": "팔레트 만들기"
@@ -56880,7 +56880,7 @@
         "string": "만든 사람"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color_2": {
-        "string": "칼라"
+        "string": "색상"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count_2": {
         "string": "스탬프 수"
@@ -56928,7 +56928,7 @@
         "string": "코드 블록 테마, {currentTheme}"
     },
     "whiteboard.inline_menu.color": {
-        "string": "칼라"
+        "string": "색상"
     },
     "whiteboard.inline_menu.color_list_box": {
         "string": "색상 변경"
@@ -57240,7 +57240,7 @@
         "string": "자세한 정보"
     },
     "whiteboard.inserts.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "whiteboard.inserts.links_description": {
         "string": "전체 웹에서 링크를 추가합니다."
@@ -58854,7 +58854,7 @@
         "string": "작업공간 공유 설정을 변경해야 하는 경우 조직 관리자에게 문의하십시오."
     },
     "workspace_admin_tab.libraries": {
-        "string": "도서관"
+        "string": "라이브러리"
     },
     "workspace_admin_tab.members": {
         "string": "회원"
@@ -59010,10 +59010,10 @@
         "string": "로컬 컴포넌트"
     },
     "design_systems.assets_panel.dropdown_type_local_assets": {
-        "string": "로컬 자산"
+        "string": "로컬 애샛"
     },
     "design_systems.assets_panel.local_assets": {
-        "string": "로컬 자산"
+        "string": "로컬 애샛"
     },
     "design_systems.component_properties.auto_suggest": {
         "string": "값을 자동으로 제안"
