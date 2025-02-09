@@ -2,9 +2,6 @@
 # Figma-Korean
 피그마에서 한국어를 적용시킵니다.
 
-업데이트된 확장프로그램에 오류있습니다.
-
-
 <hr>
 
 ## 확장프로그램 설치방법
@@ -29,6 +26,16 @@
 ![image](https://github.com/user-attachments/assets/e1517409-caa5-45ea-812c-5905081f98aa)
 
 아까 압축풀었던 폴더안에 extension폴더 선택
+
+피그마에 와서
+
+![image](https://github.com/user-attachments/assets/c1fa29d1-34fd-4875-beb7-afa045896035)
+
+설정
+
+![image](https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833)
+
+한국어 체크
 
 <hr>
 번역기를 사용하여 이상한 번역이 있을수 있습니다.
