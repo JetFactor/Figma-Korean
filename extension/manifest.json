@@ -3,6 +3,7 @@
     "name": "Figma Korean",
     "version": "1.0",
     "description": "피그마 한국어 번역 확장 프로그램",
+    "homepage_url": "https://github.com/v1bt/Figma-Korean/",
     "icons": {
         "64": "icons/icon64.png"
     },
