@@ -23,7 +23,7 @@ function updateAccountLabel() {
     const xpath = '/html/body/div[2]/div/div/div/div[4]/div/div[2]/section/div[1]/div[2]/div/div/div/div/div/div/div/div[2]/div/div[2]/div[2]';
     const result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
     const accountSettingsLabel = result.singleNodeValue;
-    if (accountSettingsLabel) {
+    if (accountSettingsLabel && accountSettingsLabel.textContent === '日本語') {
         accountSettingsLabel.textContent = '한국어';
     }
 }
