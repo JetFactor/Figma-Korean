@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Figma Korean",
     "version": "1.0",
-    "description": "피그마 한국어 번역 확장프로그램",
+    "description": "피그마 한국어 번역 확장 프로그램",
     "icons": {
         "64": "icons/icon64.png"
     },
