@@ -1,6 +1,6 @@
 const DICTIONARY_URLS = {
-    dictionaryUrl: 'https://figma-korean.vercel.app/i18n-artifacts/31a60d9d84fed15751df85d5f360ce90319b50db.json',
-    dbDictionaryUrl: 'https://figma-korean.vercel.app/i18n-artifacts/8ef8c2fc7ae316c399b776f1ca67c2e0e78a5046.json'
+    dictionaryUrl: 'https://figma-korean.vercel.app/i18n-artifacts/1.json',
+    dbDictionaryUrl: 'https://figma-korean.vercel.app/i18n-artifacts/2.json'
 };
 
 function updateResourceUrls() {
