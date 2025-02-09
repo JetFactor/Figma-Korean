@@ -74,7 +74,7 @@ Figma에서 한국어를 사용할 수 있게 만드는 확장 프로그램입�
    - QR 코드를 통해 설치
    - [URL을 통해 설치](https://github.com/v1bt/Figma-Korean/releases/download/1.0/figma-korean.js)
    
-   ![](https://github.com/user-attachments/assets/b2e53f87-7e1d-4f42-8af2-def7d034819e)
+   ![](https://github.com/user-attachments/assets/b2e53f87-7e1d-4e09-8af2-def7d034819e)
    
 3. 앱 설명에 따라 스크립트를 적용합니다.
 
