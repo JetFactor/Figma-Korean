@@ -16,32 +16,31 @@ Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
 <details>
   <summary>🔧 로컬로 설치하는 방법 (펼치기)</summary>
 
-1. [프로젝트 GitHub 페이지](https://github.com/v1bt/Figma-Korean)로 이동합니다.
-2. `Code` 버튼을 클릭한 후 `Download ZIP`을 선택하여 압축 파일을 다운로드합니다.
+1. [이 텍스트를 클릭하여 압축파일을 다운로드 받습니다.](https://github.com/v1bt/Figma-Korean/releases/download/extension/Figma-Korean.zip)
+
+2. 압축을 풉니다.
+3. `chrome://extensions/`로 이동합니다.
+4. 우측 상단 개발자 모드 토글을 켭니다.
    
-   ![](https://github.com/user-attachments/assets/9f45bf1a-185f-440a-a0b8-3f26c4567db0)
+   ![](https://github.com/user-attachments/assets/fa5e0041-dc6d-4a76-9e76-88df00d45229)
+
+6. 켠 후, 좌측 상단 `압축해제된 확장 프로그램을 로드합니다.`를 클릭합니다.
    
-3. 다운로드한 ZIP 파일을 압축 해제합니다.
-4. Chrome 브라우저에서 `chrome://extensions/` 페이지로 이동합니다.
-   
-   ![](https://github.com/user-attachments/assets/fcb44113-c33d-4481-b592-89db032627f2)
-   
-5. 우측 상단의 `개발자 모드`를 활성화합니다.
-   
-   ![](https://github.com/user-attachments/assets/8d0e204a-6eba-4ccb-9836-941d7a7b3057)
-   
-6. `압축 해제된 확장 프로그램을 로드합니다.` 버튼을 클릭합니다.
-   
-   ![](https://github.com/user-attachments/assets/e1517409-caa5-45ea-812c-5905081f98aa)
-   
-7. 아까 압축을 풀었던 폴더 내 `extension` 폴더를 선택합니다.
+    <img src='https://github.com/user-attachments/assets/8dc02fc8-9f34-4e76-92ab-f0ab5bd15c43' width=35% height=auto>
+
+7. 아까 압축을 풀었던 확장프로그램 폴더를 선택합니다.
+
+    <img src='https://github.com/user-attachments/assets/852a10d8-9c45-4200-b13a-5057d8a9c58a' width=35% height=auto>
+    
 8. Figma로 이동하여 설정을 엽니다.
    
    ![](https://github.com/user-attachments/assets/c1fa29d1-34fd-4875-beb7-afa045896035)
    
 9. 한국어 옵션을 체크하여 적용합니다.
-   
-   ![](https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833)
+
+   <img src='https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833' width=40% height=auto>
+
+</details>
 </details>
 
 <br>
