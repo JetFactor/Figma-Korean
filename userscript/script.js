@@ -2,13 +2,13 @@
 // @name         Figma Korean
 // @namespace    https://github.com/v1bt/Figma-Korean
 // @version      1.0
-// @description  피그마 한국어 번역 확장프로그램
+// @description  피그마 한국어 번역 유저 스크립트
 // @author       Virtual Byte
 // @match        *://*.figma.com/*
 // @grant        none
 // @run-at       document-start
 // @license      MIT
-// @icon          https://figma-korean.vercel.app/icon.png
+// @icon         https://figma-korean.vercel.app/icon.png
 // ==/UserScript==
 
 (function() {
