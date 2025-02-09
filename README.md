@@ -1,27 +1,9 @@
+<img src='https://github.com/user-attachments/assets/0be431d7-c3a7-4869-a5d2-33b49670893e' width=7.5% height=auto>
+
 # Figma-Korean
+Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
 
-Figma에서 한국어를 사용할 수 있게 만드는 확장 프로그램입니다.
-
-## 👤 기여자
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/v1bt">
-          <img src="https://avatars.githubusercontent.com/u/184825774?v=4" width="100px;" alt="버추얼바이트"/><br />
-          <sub><b>버추얼바이트</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/newhajinyoon">
-          <img src="https://avatars.githubusercontent.com/u/61103309?v=4" width="100px;" alt="진윤"/><br />
-          <sub><b>진윤</b></sub>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br>
 
 ---
 
@@ -62,24 +44,38 @@ Figma에서 한국어를 사용할 수 있게 만드는 확장 프로그램입�
    ![](https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833)
 </details>
 
+<br>
+
 ---
 
 ## 🍏 유저 스크립트 (사파리) 설치 방법
+<img src='https://github.com/user-attachments/assets/bb909ecd-d119-4f67-812f-d3797867537ae' width=15% height=auto>
 
 1. [유저스크립트](https://apps.apple.com/us/app/userscripts/id1463298887) 앱을 설치합니다.
-   
-   ![](https://github.com/user-attachments/assets/bb909ecd-d119-4f67-812f-d3797867537a)
-   
+      
 2. 아래 방법 중 하나로 스크립트를 설치합니다.
-   - QR 코드를 통해 설치
+  -
+     <details>
+       <summary>QR코드를 통해 설치</summary></summary>
+       <br>
+       <img src='https://github.com/user-attachments/assets/99e820ec-c63e-4b8a-8289-8c69afcd32fe' width=15% height=auto>
+     </details>
+   
    - [URL을 통해 설치](https://github.com/v1bt/Figma-Korean/releases/download/1.0/figma-korean.js)
-   
-   ![](https://github.com/user-attachments/assets/b2e53f87-7e1d-4e09-8af2-def7d034819e)
-   
+     
 3. 앱 설명에 따라 스크립트를 적용합니다.
+
+<br>
 
 ---
 
+## 👤 기여자
+
+![](https://readme-contributors.now.sh/v1bt/Figma-Korean?extension=jpg&width=300)
+
+<br>
+
+---
 ## 🔄 번역 및 피드백
 
 기계 번역을 사용하여 일부 번역이 어색할 수 있습니다.
