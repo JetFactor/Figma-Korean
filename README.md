@@ -49,7 +49,7 @@ Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
 ---
 
 ## 🍏 유저 스크립트 (사파리) 설치 방법
-<img src="https://github.com/user-attachments/assets/bb909ecd-d119-4f67-812f-d3797867537ae" width="150" height=auto>
+<img src="https://github.com/user-attachments/assets/eb85fd50-f596-4694-a1b7-7873ad56377c" width="150" height=auto>
 
 1. [유저스크립트](https://apps.apple.com/us/app/userscripts/id1463298887) 앱을 설치합니다.
       
@@ -81,7 +81,8 @@ Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
 기계 번역을 사용하여 일부 번역이 어색할 수 있습니다.
 오역이나 개선 사항이 있다면 수정 요청을 보내주시면 감사하겠습니다.
 
-![](https://dcbadge.limes.pink/api/shield/1285574573877624924)  
+![](https://dcbadge.limes.pink/api/shield/1285574573877624924)
+
 ![](https://dcbadge.limes.pink/api/shield/834253879990157312)
 
 추후 데스크탑용 프로그램도 개발해볼 예정입니다.
