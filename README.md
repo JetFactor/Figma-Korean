@@ -1,4 +1,4 @@
-<img src="https://figma-korean.vercel.app/icon.png" width=12.5% height=auto>
+<img src="https://figma-korean.vercel.app/icon.png" width="150" height=auto>
 
 # Figma-Korean
 Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
