@@ -1,4 +1,4 @@
-<img src='https://figma-korean.vercel.app/icon.png' width=12.5% height=auto>
+<img src="https://figma-korean.vercel.app/icon.png" width=12.5% height=auto>
 
 # Figma-Korean
 Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
@@ -14,50 +14,51 @@ Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
 아직 확장프로그램이 스토어에 올라오지 않았습니다. 로컬로 설치하는 방법을 참조해주세요.
 
 <details>
-  <summary>🔧 로컬로 설치하는 방법 (펼치기)</summary>
+  <summary>🔧 로컬로 설치하는 방법</summary>
 
-1. [이 텍스트를 클릭하여 압축파일을 다운로드 받습니다.](https://github.com/v1bt/Figma-Korean/releases/download/extension/Figma-Korean.zip)
+1. [이 링크](https://github.com/v1bt/Figma-Korean/releases/download/extension/Figma-Korean.zip)에서 압축파일을 다운로드합니다.
 
-2. 압축을 풉니다.
-3. `chrome://extensions/`로 이동합니다.
-4. 우측 상단 개발자 모드 토글을 켭니다.
+2. 다운로드한 압축파일을 풉니다.
+
+3. `chrome://extensions/`로 이동합니다.  
+
+4. 우측 상단 개발자 모드 활성화
+
+   <img src="https://github.com/user-attachments/assets/fa5e0041-dc6d-4a76-9e76-88df00d45229" width="250">
+
+5. "압축해제된 확장 프로그램을 로드합니다." 클릭
+
+   <img src="https://github.com/user-attachments/assets/8dc02fc8-9f34-4e76-92ab-f0ab5bd15c43" width="300">  
+
+6. 압축을 풀었던 폴더를 선택합니다.  
+
+   <img src="https://github.com/user-attachments/assets/852a10d8-9c45-4200-b13a-5057d8a9c58a" width="300">  
+
+7. Figma로 이동하여 설정을 엽니다.
    
-   ![](https://github.com/user-attachments/assets/fa5e0041-dc6d-4a76-9e76-88df00d45229)
+   <img src="https://github.com/user-attachments/assets/c1fa29d1-34fd-4875-beb7-afa045896035" width="300">
 
-6. 켠 후, 좌측 상단 `압축해제된 확장 프로그램을 로드합니다.`를 클릭합니다.
-   
-    <img src='https://github.com/user-attachments/assets/8dc02fc8-9f34-4e76-92ab-f0ab5bd15c43' width=35% height=auto>
+8. 한국어 옵션을 체크하여 적용합니다.
+  
+   <img src="https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833" width="350">  
 
-7. 아까 압축을 풀었던 확장프로그램 폴더를 선택합니다.
-
-    <img src='https://github.com/user-attachments/assets/852a10d8-9c45-4200-b13a-5057d8a9c58a' width=35% height=auto>
-    
-8. Figma로 이동하여 설정을 엽니다.
-   
-   ![](https://github.com/user-attachments/assets/c1fa29d1-34fd-4875-beb7-afa045896035)
-   
-9. 한국어 옵션을 체크하여 적용합니다.
-
-   <img src='https://github.com/user-attachments/assets/7deb7839-aa3b-4f42-999c-c02fe3db4833' width=40% height=auto>
-
-</details>
-</details>
+</details>  
 
 <br>
 
 ---
 
 ## 🍏 유저 스크립트 (사파리) 설치 방법
-<img src='https://github.com/user-attachments/assets/bb909ecd-d119-4f67-812f-d3797867537ae' width=15% height=auto>
+<img src="https://github.com/user-attachments/assets/bb909ecd-d119-4f67-812f-d3797867537ae" width="150" height=auto>
 
 1. [유저스크립트](https://apps.apple.com/us/app/userscripts/id1463298887) 앱을 설치합니다.
       
 2. 아래 방법 중 하나로 스크립트를 설치합니다.
   -
      <details>
-       <summary>QR코드를 통해 설치</summary></summary>
+       <summary>📷 QR코드를 통해 설치</summary></summary>
        <br>
-       <img src='https://github.com/user-attachments/assets/99e820ec-c63e-4b8a-8289-8c69afcd32fe' width=15% height=auto>
+       <img src="https://github.com/user-attachments/assets/99e820ec-c63e-4b8a-8289-8c69afcd32fe" width="150" height=auto>
      </details>
    
    - [URL을 통해 설치](https://github.com/v1bt/Figma-Korean/releases/download/1.0/figma-korean.js)
