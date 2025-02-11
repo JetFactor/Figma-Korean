@@ -2,7 +2,7 @@
 // @name         Figma Korean
 // @namespace    https://github.com/v1bt/Figma-Korean
 // @version      1.0
-// @description  피그마 한국어 번역 유저 스크립트
+// @description  Figma 한국어 번역 유저 스크립트
 // @author       Virtual Byte
 // @match        *://*.figma.com/*
 // @grant        none
