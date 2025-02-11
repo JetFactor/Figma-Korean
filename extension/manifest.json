@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Figma Korean",
     "version": "1.0",
-    "description": "피그마 한국어 번역 확장 프로그램",
+    "description": "Figma를 한글로 사용해보세요.",
     "homepage_url": "https://github.com/v1bt/Figma-Korean/",
     "icons": {
         "64": "icons/icon.png"
