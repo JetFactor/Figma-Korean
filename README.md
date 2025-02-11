@@ -1,7 +1,7 @@
 <img src="https://figma-korean.vercel.app/icon.png" width="150" height=auto>
 
 # Figma-Korean
-Figma를 한국어로 사용할 수 있게 해주는 도구입니다.
+Figma를 한글로 사용해보세요.
 
 <br>
 
