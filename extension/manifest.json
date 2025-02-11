@@ -13,8 +13,5 @@
             "js": ["content.js"],
             "run_at": "document_start"
         }
-    ],
-    "host_permissions": [
-        "*://*.figma.com/*"
     ]
 } 
