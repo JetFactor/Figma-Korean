@@ -3,6 +3,16 @@
 # Figma-Korean
 Figma를 한글로 사용해보세요.
 
+<table>
+	<tr>
+		<td>
+			데스크톱 구현에 어려움을 겪고있습니다.
+      <br>
+      도와주실수 있는 분들은 @v1byte로 DM주세요
+		</td>
+	</tr>
+</table>
+
 <br>
 
 ---
