@@ -1,3 +1,6 @@
+# 피그마가 공식적으로 한국어 지원을 시작했습니다!!
+## 그래서 이 프로젝트는 폐기합니다~
+
 <img src="https://figma-korean.vercel.app/icon.png" width="150" height=auto>
 
 # Figma-Korean
